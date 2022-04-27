@@ -1,0 +1,20 @@
+Locales['en'] = {
+
+	['valid_this_purchase'] = 'Validate this purchase?',
+	['yes'] = 'Yes',
+	['no'] = 'No',
+	['name_outfit'] = 'Name of the outfit?',
+	['not_enough_money'] = 'You do not have enough money',
+	['press_menu'] = 'press ~INPUT_CONTEXT~ to access the menu',
+	['clothes'] = 'ClotheShop',
+	['you_paid'] = 'You paid $',
+	['save_in_dressing'] = 'Do you want to save this shirt?',
+	['shop_clothes'] = 'Buy clothes',
+	['player_clothes'] = 'Change Clothes - Savings',
+	['shop_main_menu'] = 'ClotheShop',
+	['saved_outfit'] = 'Your clothes have been saved, thankyou!',
+	['loaded_outfit'] = 'Clothes Have Been Worn!',
+	['suppr_cloth'] = 'Remove Clothes - Saves',
+	['supprimed_cloth'] = 'This outfit has been deleted of your dressing-room',
+	['not_have_tiket'] = 'You Dont Have a ticket',
+}
